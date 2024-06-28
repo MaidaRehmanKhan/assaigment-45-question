@@ -1,8 +1,8 @@
 {
-  "name": "q33",
+  "name": "q34",
   "version": "1.0.0",
   "description": "",
-  "main": "q33.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
