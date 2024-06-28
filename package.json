@@ -1,18 +1,12 @@
 {
-  "name": "q31",
+  "name": "q32",
   "version": "1.0.0",
   "description": "",
-  "main": "q31.js",
+  "main": "q32.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "-": "^0.0.1",
-    "@types/inquirer": "^9.0.7",
-    "D": "^1.0.0",
-    "inquirer": "^9.2.23"
-  }
+  "license": "ISC"
 }
